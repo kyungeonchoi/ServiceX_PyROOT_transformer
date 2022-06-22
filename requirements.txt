@@ -15,4 +15,4 @@ awkward1==0.2.19
 xxhash
 lz4
 pyarrow==0.16.0
-numpy==1.16.6
+numpy==1.22.0
